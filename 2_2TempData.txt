@@ -147,4 +147,4 @@ Humidity: 72.00 %, Temp: 16.00 Celsius
 Humidity: 72.00 %, Temp: 16.00 Celsius
 Humidity: 72.00 %, Temp: 16.00 Celsius
 Humidity: 71.00 %, Temp: 16.00 Celsius
-Humidity: 71.00 %, Temp: 16.00 Celsius
+Humidity: 71.00 %, Temp: 16.00 Celsius
